@@ -1,0 +1,37 @@
+﻿html{
+	background-color: rgba(40,1,1);
+}
+h1{
+font-family:Castellar; font-size:25pt; color:powderblue; text-align:center;
+}
+p{
+font-family:calibri; font-size:20pt; color:gold; text-align:left; text-overflow: all;
+}
+li{
+	font-size: 20pt; font-family: Times new roman; color: rgb(110,200,185);
+}
+a{
+	font-size: 20pt; font-family: Aharoni; color: magenta;
+}
+img{
+
+	width: 300px;
+	height: 370px;
+	border-color: gold;
+	border-style: solid;
+	border-radius: 30px;
+	border-width: 8px;
+	margin: 10px;
+}
+h2{
+	font-size: 25px; font-family: microsoft; color: #bfc; text-align: center;
+}
+img.num1{
+	width: 500px;
+	height: 300px;
+	border-color: rgb(110,190,65);
+	border-style: solid;
+	border-radius: 30px;
+	border-width: 8px;
+	margin: 10px;	
+}
